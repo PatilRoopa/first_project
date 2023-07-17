@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgb(21, 61, 95);
+    font-style: italic;
+}
+image{
+    width: 100px;
+    height: 100px;
+    margin: 300px 0px 0px 550px;
+}
